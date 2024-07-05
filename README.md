@@ -27,6 +27,7 @@ aws configure
 - Setup and Install node package
 
 ```
+npm init -y
 npm install aws-sdk
 ```
 
